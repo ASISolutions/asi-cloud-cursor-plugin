@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "asi-cloud": {
+      "type": "http",
+      "url": "https://cloud.asi.nz/mcp"
+    }
+  }
+}
